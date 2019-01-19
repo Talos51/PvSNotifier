@@ -4,7 +4,7 @@ PvSNotifier allow you to get notified through Twitter DM and/or Pushover systems
 
   - Author: Talos
   - Contact: Twitter @Talos51
-  - Website: http://www.private-ts.tk
+  - Website: https://www.private-ts.tk
 
 PvSNotifier could be run thanks to [TwitterOAuth](https://twitteroauth.com/) project for the Twitter part.
 PvSNotifier integrate Pushover service as one of possible plateform: [Pushover](https://pushover.net/)
